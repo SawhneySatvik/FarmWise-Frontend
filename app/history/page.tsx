@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import MobileNavigation from "@/components/mobile-navigation"
-import Sidebar from "@/components/sidebar"
+import { Sidebar } from "@/components/sidebar"
 import TopBar from "@/components/top-bar"
 import HistorySection from "@/components/history-section"
 import { useMobile } from "@/hooks/use-mobile"
